@@ -143,12 +143,12 @@ Status: Always Building ⚡
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-Lohar-itzJeeSKUULL&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-Lohar-itzJeeSKUULL&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-Lohar-29&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-Lohar-29&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-Lohar-itzJeeSKUULL&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-Lohar-29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -160,7 +160,7 @@ Status: Always Building ⚡
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-itzJeeSKUULL&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeet-Lohar-29&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
